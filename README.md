@@ -13,7 +13,7 @@ It ensures fair question distribution, clean data flow, and supports result eval
 
 **🚀 Features**
 
-**✅ Topic-Based MCQ APIs** – Fetches random questions for any selected topic (e.g., GET /api/questions/programming).
+**✅ Topic-Based MCQ APIs** – Fetches random questions for any selected topic.
 
 **✅ Dynamic Randomization** – Uses MongoDB’s aggregation pipeline for random question selection.
 
